@@ -69,7 +69,7 @@ const BlogPost = () => {
   return (
     <div className="min-h-screen bg-background">
       
-      <article className="container mx-auto px-4 py-12 max-w-4xl">
+      <article className="container mx-auto px-4 mt-10 py-12 max-w-4xl">
         <Button variant="ghost" asChild className="mb-6">
           <Link to="/blog">
             <ArrowLeft className="mr-2 h-4 w-4" />
