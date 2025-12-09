@@ -5,18 +5,18 @@ This project provides a fast development workflow, clean UI components, and easy
 
 ---
 
-## 🚀 Features
+## Features
 
-- ⚡ **Vite** – Super-fast development server and build tool  
-- ⚛️ **React + TypeScript** – Type-safe, component-driven UI development  
-- 🎨 **Tailwind CSS** – Utility-first CSS for responsive design  
-- 🧱 **shadcn-ui** – Prebuilt and customizable UI components  
-- 🔄 **Hot Reloading** – Instant updates during development  
-- 📦 **Easy Deployment** – Compatible with Vercel, Netlify, or any static hosting platform  
+- **Vite** – Super-fast development server and build tool  
+- **React + TypeScript** – Type-safe, component-driven UI development  
+- **Tailwind CSS** – Utility-first CSS for responsive design  
+- **shadcn-ui** – Prebuilt and customizable UI components  
+- **Hot Reloading** – Instant updates during development  
+- **Easy Deployment** – Compatible with Vercel, Netlify, or any static hosting platform  
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 Follow these steps to set up and run the project locally.
 
